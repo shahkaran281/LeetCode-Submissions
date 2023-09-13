@@ -6,8 +6,8 @@ public:
         }
         int arr[26] = {0};
         for(int i=0;i<s.size();i++){
-            arr[int(s[i])-int('a')]++;
-            arr[int(t[i])-int('a')]--;
+            arr[s[i]-'a']++;
+            arr[t[i]-'a']--;
         }
         for(int i=0;i<26;i++){
             if(arr[i]!=0){
