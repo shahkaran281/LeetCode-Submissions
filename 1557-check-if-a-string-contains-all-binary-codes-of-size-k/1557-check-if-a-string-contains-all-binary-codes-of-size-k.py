@@ -1,10 +1,10 @@
 class Solution:
     def hasAllCodes(self, s: str, k: int) -> bool:
-        limit = pow(2,k)
-        val = 0
-        visited = set()
         if len(s) < k:
             return False
+        limit = 1 << k
+        val = 0
+        visited = set()
         for i in range(k-1):
             val = val*2 + int(s[i])
         i = k-1
