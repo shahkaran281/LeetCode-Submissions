@@ -14,6 +14,6 @@ class Solution:
             if len(visited) == limit:
                 return True
             i+=1
-            val = val %(limit/2)
+            val = val %(limit >> 1)
         return False
         
