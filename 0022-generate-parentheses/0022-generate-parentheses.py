@@ -2,10 +2,7 @@ class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res = []
         def fun(start, end, str):
-            if start == 0 and end == 0:
-                res.append(str)
-                return 
-            elif start == 0:
+            if start == 0:
                 while end!=0:
                     str += ')'
                     end-=1
