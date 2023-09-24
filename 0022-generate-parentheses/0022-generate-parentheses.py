@@ -2,7 +2,6 @@ class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res = []
         def fun(start, end, str):
-            print(f"start: {start}, end: {end}, string:{str}")
             if start == 0 and end == 0:
                 res.append(str)
                 return 
