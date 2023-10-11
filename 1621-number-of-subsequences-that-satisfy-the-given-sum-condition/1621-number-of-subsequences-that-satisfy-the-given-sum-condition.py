@@ -1,6 +1,6 @@
 class Solution:
   def numSubseq(self, nums: List[int], target: int) -> int:
-    kMod = 1_000_000_007
+    kMod = 1000000007
     n = len(nums)
     ans = 0
 
