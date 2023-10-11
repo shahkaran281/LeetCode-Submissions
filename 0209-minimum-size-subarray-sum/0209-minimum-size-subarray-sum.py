@@ -1,8 +1,7 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
         res = 10000001
-        i = 0
-        j = 0
+        i ,j, currSum = 0, 0, 0
         currSum = 0
         while j < len(nums):
             while j < len(nums) and currSum < target:
