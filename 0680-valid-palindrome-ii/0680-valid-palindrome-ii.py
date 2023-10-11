@@ -5,7 +5,7 @@ class Solution:
 
     n = len(s)
     for i in range(n // 2):
-      if s[i] != s[~i]:
+      if s[i] != s[n -i - 1]:
         return validPalindrome(i + 1, n - 1 - i) or validPalindrome(i, n - 2 - i)
 
     return True
