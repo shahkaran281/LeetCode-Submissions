@@ -3,13 +3,12 @@ class Solution:
         res = 10000001
         i = 0
         j = 0
-        n = len(nums)
         currSum = 0
-        while j < n:
-            while j < n and currSum < target:
+        while j < len(nums):
+            while j < len(nums) and currSum < target:
                 currSum+= nums[j]
                 j+=1
-            if j < n:
+            if j < len(nums):
                 res = min(res,j-i)
             while i<=j and currSum>= target:
                 currSum-= nums[i]
