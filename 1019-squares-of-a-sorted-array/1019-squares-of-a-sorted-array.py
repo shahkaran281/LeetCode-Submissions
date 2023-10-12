@@ -24,7 +24,6 @@ class Solution:
         res = [0] * len(nums)
         i = 0
         while l >= 0 and r < len(nums):
-            # print(f" l: {l}, val: {nums[l]} vs r: {r}, val: {nums[r]}")
             if abs(nums[l]) <= abs(nums[r]):
                 val = nums[l]*nums[l]
                 res[i] = val
