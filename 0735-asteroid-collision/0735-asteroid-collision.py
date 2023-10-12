@@ -1,7 +1,5 @@
 class Solution:
     def asteroidCollision(self, a: List[int]) -> List[int]:
-        # [10,2,-5,-11,11]
-        # [-2,-2,1,-2]
         stk = []
 
         def fun(val):
