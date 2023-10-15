@@ -18,7 +18,6 @@ class Solution:
                     res = max(curr, res)
                 else:
                     curr = 0
-            print(f"i : {i}, curr: {curr}, max:{res}")
         print()
         curr = 0
         for i in range(n-1):
@@ -34,7 +33,6 @@ class Solution:
                     res = max(curr, res)
                 else:
                     curr = 0
-            print(f"i : {i}, curr: {curr}, max:{res}")
         return res+1
          
         
