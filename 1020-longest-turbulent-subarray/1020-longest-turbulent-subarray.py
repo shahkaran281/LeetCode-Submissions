@@ -2,10 +2,9 @@ class Solution:
     def maxTurbulenceSize(self, arr: List[int]) -> int:
         res = 0
         curr = 0
-        n = len(arr)
-        if n == 1:
-            return n
-        for i in range(n-1):
+        if len(arr) == 1:
+            return 1
+        for i in range(len(arr)-1):
             if i % 2 == 1:
                 if arr[i] > arr[i+1]:
                     curr+=1
@@ -18,9 +17,8 @@ class Solution:
                     res = max(curr, res)
                 else:
                     curr = 0
-        print()
         curr = 0
-        for i in range(n-1):
+        for i in range(len(arr)-1):
             if i % 2 == 1:
                 if arr[i] < arr[i+1]:
                     curr+=1
