@@ -1,8 +1,6 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
         n = len(nums)
-        if n == 2:
-            return min(nums[0], nums[1])
         l = 0
         h = n - 1
         while l <= h:
