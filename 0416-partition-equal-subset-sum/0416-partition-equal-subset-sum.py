@@ -4,7 +4,7 @@ class Solution:
         pSums = {0}
         if totalSum % 2 ==1:
             return False
-        target = int(totalSum / 2)
+        target = totalSum // 2
         for i  in nums:
             newSums = set()
             for j in pSums:
