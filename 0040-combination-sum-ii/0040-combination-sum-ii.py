@@ -1,5 +1,5 @@
 class Solution:
-  def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+  def combinationSum2(self, nums: List[int], target: int) -> List[List[int]]:
     ans = []
 
     def dfs(s: int, target: int, path: List[int]) -> None:
@@ -9,13 +9,13 @@ class Solution:
         ans.append(path.copy())
         return
 
-      for i in range(s, len(candidates)):
-        if i > s and candidates[i] == candidates[i - 1]:
+      for i in range(s, len(nums)):
+        if i > s and nums[i] == nums[i - 1]:
           continue
-        path.append(candidates[i])
-        dfs(i + 1, target - candidates[i], path)
+        path.append(nums[i])
+        dfs(i + 1, target - nums[i], path)
         path.pop()
 
-    candidates.sort()
+    nums.sort()
     dfs(0, target, [])
     return ans
