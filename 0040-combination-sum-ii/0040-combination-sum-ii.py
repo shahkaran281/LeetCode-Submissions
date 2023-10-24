@@ -1,7 +1,6 @@
 class Solution:
   def combinationSum2(self, nums: List[int], target: int) -> List[List[int]]:
     ans = []
-
     def dfs(s: int, target: int, path: List[int]) -> None:
       if target < 0:
         return
