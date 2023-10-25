@@ -12,9 +12,5 @@ class Solution:
             for i in sqr:
                 if i <= j:
                     dp[j] = min(dp[j], dp[j - i] + 1)
-        print(dp)
-        if dp[-1] == float('inf'):
-            return n
-        else:
-            return dp[-1] 
+        return dp[-1] 
         
