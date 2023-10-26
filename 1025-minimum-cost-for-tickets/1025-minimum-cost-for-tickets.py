@@ -3,7 +3,6 @@ class Solution:
         DP = [0] * (days[-1]+1)
         i = 0
         for j in range(1,days[-1]+1):
-            print(days[i], j!= days[i])
             if j != days[i]:
                 DP[j] = DP[j-1]
             else:
@@ -17,6 +16,5 @@ class Solution:
                 else:
                     DP[j] = min(DP[j],costs[2])
                 i+=1
-            print(f"j:{j} cost: {DP[j]}")
         return DP[-1]
         
