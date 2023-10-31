@@ -4,6 +4,6 @@ class Solution:
         while x <= n:
             if x == n:
                 return True
-            x = 2*x
+            x +=x
         return False
         
