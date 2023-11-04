@@ -8,7 +8,6 @@ class Solution:
             while currProd >= k and i<=j:
                 currProd /= nums[i]
                 i+=1
-            if currProd <= k:
-                count += j - i +1 
+            count += j - i +1 
         return count
         
