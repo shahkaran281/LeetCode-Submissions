@@ -8,8 +8,6 @@ class Solution:
             count[s[j]] +=1
             while (j-i+1) - count[max(count, key=count.get)] > k:
                 count[s[i]]-=1
-                if count[s[i]] == 0:
-                    del count[s[i]]  
                 i+=1
             res = max(res,j-i+1)
             j+=1
