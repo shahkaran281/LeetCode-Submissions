@@ -3,7 +3,7 @@ class Solution:
         res = 0
         curr = 0
         for i in range(len(nums)):
-            if  not nums[i]:
+            if nums[i] == 0:
                 curr = 0
             else:
                 curr+=1
