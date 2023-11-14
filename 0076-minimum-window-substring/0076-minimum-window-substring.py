@@ -8,9 +8,8 @@ class Solution:
         j = 0
         res = "*" * (len(s)+1)
         while j <= len(s):
-
             if  Counter(tCount) <= Counter(curr):
-                if len(s[i+1:j]) < len(res):
+                if j - i -1 < len(res):
                     res = s[i+1:j]
                 i+=1
                 curr[s[i]] -=1
