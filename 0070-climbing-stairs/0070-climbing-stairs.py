@@ -5,10 +5,11 @@ class Solution:
         elif n == 2:
             return 2
         else:
-            DP = [0] * (n+1)
-            DP[1] = 1
-            DP[2] = 2
+            first = 1
+            second = 2
             for i in range(3,n+1):
-                DP[i] = DP[i-1]+DP[i-2]
-            return DP[-1]
+                temp = first
+                first = second
+                second += temp
+            return second
         
