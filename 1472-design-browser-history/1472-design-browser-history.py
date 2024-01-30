@@ -6,8 +6,7 @@ class ListNode:
 class BrowserHistory:
 
     def __init__(self, homepage: str):
-        self.head = ListNode(homepage)
-        self.curr = self.head
+        self.curr = ListNode(homepage)
         
 
     def visit(self, url: str) -> None:
