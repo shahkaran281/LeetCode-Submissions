@@ -14,21 +14,19 @@ class BrowserHistory:
         nxt = ListNode(url)
         self.curr.next = nxt
         nxt.prev = self.curr
-        self.curr = nxt
-        # print(f'new Node {url} added after {self.curr.prev.val}. New Curr Node : {self.curr.val}')
-        
+        self.curr = nxt 
         
 
     def back(self, steps: int) -> str:
         for _ in range(steps):
-            if self.curr.prev != None:
+            if self.curr.prev:
                 self.curr = self.curr.prev
         return self.curr.val
         
 
     def forward(self, steps: int) -> str:
         for _ in range(steps):
-            if self.curr.next != None:
+            if self.curr.next:
                 self.curr = self.curr.next
         return self.curr.val
         
