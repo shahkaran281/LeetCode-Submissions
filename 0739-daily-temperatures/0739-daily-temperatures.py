@@ -4,7 +4,7 @@ class Solution:
         stk = [0]
         
         for i in range(1,len(temp)):
-            while len(stk) != 0 and temp[i] > temp[stk[-1]]:
+            while stk and temp[i] > temp[stk[-1]]:
                 popped = stk.pop()
                 res[popped] = i - popped
             stk.append(i)
