@@ -17,7 +17,6 @@ class Solution:
             
         if root == None:
             return True
-        res = fun(root)
-        return False if res == -1 else res
+        return False if fun(root) == -1 else fun(root)
                 
         
