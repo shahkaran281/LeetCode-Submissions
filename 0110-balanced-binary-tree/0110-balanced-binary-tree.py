@@ -15,7 +15,7 @@ class Solution:
                 return -1
             return max(left,right) + 1
             
-        if root == None:
+        if not root:
             return True
         return False if fun(root) == -1 else fun(root)
                 
