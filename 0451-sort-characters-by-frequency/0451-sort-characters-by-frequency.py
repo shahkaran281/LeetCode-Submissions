@@ -5,7 +5,7 @@ class Solution:
 
     for c, freq in collections.Counter(s).items():
       buckets[freq].append(c)
-
+    # print(buckets)
     for freq in reversed(range(len(buckets))):
       for c in buckets[freq]:
         ans.append(c * freq)
