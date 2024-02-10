@@ -1,16 +1,16 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        res = 0
-        def fun(l,r):
-            if l < 0 or r == len(s):
+        count = 0
+        def isPam(start,end):
+            # print(start,end)
+            if start < 0 or end >= len(s):
                 return 0
-            if s[l] == s[r]:
-                return 1 + fun(l-1,r+1)
-            else:
+            if s[start] != s[end]:
                 return 0
+            return 1 + isPam(start-1,end+1)
         for i in range(len(s)):
-            res += fun(i,i)
-            if i+1 < len(s):
-                res+= fun(i,i+1)
-        return res
+            count += isPam(i,i) 
+            count += isPam(i,i+1)
+        
+        return count
         
