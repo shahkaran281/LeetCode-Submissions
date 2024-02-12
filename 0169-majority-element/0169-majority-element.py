@@ -2,7 +2,8 @@ class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         curr = nums[0]
         count = 1
-        for i in range(1,len(nums)):
+        i = 0
+        while i < len(nums):
             if nums[i] == curr:
                 count+=1
             else:
@@ -10,4 +11,5 @@ class Solution:
                 if count == 0:
                     curr = nums[i]
                     count = 1
+            i+=1
         return curr
