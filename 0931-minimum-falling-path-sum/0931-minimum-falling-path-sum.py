@@ -10,5 +10,7 @@ class Solution:
                     if isWithin(i-1,j+k):
                         curr = min(curr,matrix[i-1][j+k]) 
                 matrix[i][j] = curr + value
-        # print(dp)
-        return min(matrix[-1])
+        res = float('inf')
+        for i in range(len(matrix)):
+            res = min(res, matrix[-1][i])
+        return res
