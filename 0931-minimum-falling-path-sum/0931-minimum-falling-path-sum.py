@@ -11,5 +11,5 @@ class Solution:
                     if isWithin(i-1,j+k):
                         curr = min(curr,dp[i-1][j+k]) 
                 dp[i][j] = curr + matrix[i][j]
-        print(dp)
+        # print(dp)
         return min(dp[-1])
