@@ -2,9 +2,8 @@ from heapq import heapify, heappush, heappop
 
 class Solution:
     def findLeastNumOfUniqueInts(self, arr: List[int], k: int) -> int:
-        counter = collections.Counter(arr)
         heap = []
-        for key, count in counter.items():
+        for key, count in collections.Counter(arr).items():
             heap.append(count)
         i = 0
         heap.sort()
