@@ -1,5 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        if len(s) % 2 != 0:
+            return False
         close = {")":"(","}":"{","]":"["}
         start = {"(","{","["}
         stk = []
@@ -7,12 +9,9 @@ class Solution:
             if val in start:
                 stk.append(val)
             else:
-                if stk:
-                    if stk[-1] != close[val]:
+                if not stk or stk[-1] != close[val]:
                         return False
-                    else:
-                        stk.pop()
                 else:
-                    return False
+                        stk.pop()
         return len(stk) == 0
         
