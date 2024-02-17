@@ -7,7 +7,6 @@ class Solution:
       if diff <= 0:
         continue
       heapq.heappush(minHeap, diff)
-      # If we run out of ladders, greedily use as less bricks as possible.
       if len(minHeap) > ladders:
         bricks -= heapq.heappop(minHeap)
       if bricks < 0:
