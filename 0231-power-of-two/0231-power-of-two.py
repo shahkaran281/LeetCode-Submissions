@@ -4,6 +4,6 @@ class Solution:
         while x <= n:
             if x == n:
                 return True
-            x +=x
+            x = x << 1
         return False
         
