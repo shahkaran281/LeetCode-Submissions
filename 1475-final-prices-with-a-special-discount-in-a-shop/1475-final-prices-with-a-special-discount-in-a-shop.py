@@ -4,7 +4,6 @@ class Solution:
         stack = []
 
         for i, price in enumerate(prices):
-            # stack[-1] := i in the problem description.
             while stack and prices[stack[-1]] >= price:
                 ans[stack.pop()] -= price
             stack.append(i)
