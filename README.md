@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
 ## Two Pointers
@@ -14,6 +15,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
 ## Simulation
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
