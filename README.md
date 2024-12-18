@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
@@ -46,6 +47,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Dynamic Programming
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
+## Sorting
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
