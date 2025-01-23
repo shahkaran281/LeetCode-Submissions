@@ -45,6 +45,7 @@
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0969-number-of-recent-calls](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0969-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1833-find-the-highest-altitude) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
