@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0871-keys-and-rooms](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -190,11 +192,13 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
