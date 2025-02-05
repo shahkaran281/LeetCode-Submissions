@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -35,6 +36,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -130,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -221,4 +224,12 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
