@@ -9,6 +9,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0605-can-place-flowers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
