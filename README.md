@@ -40,6 +40,7 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -148,6 +149,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1894-merge-strings-alternately](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
