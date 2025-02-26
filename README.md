@@ -38,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
