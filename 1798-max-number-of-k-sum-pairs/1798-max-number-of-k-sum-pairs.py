@@ -1,14 +1,15 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        ans = 0
         counter = Counter(nums)
-        for val, freq in counter.items():
-            if val * 2 == k:
-                ans += freq // 2
-                freq = freq % 2
-            elif k - val in counter:
-                pair = min(freq, counter[k - val])
-                counter[val] -= pair
-                counter[k - val] -= pair
-                ans += pair
+        ans = 0
+        for i in counter.keys():
+            if k - i in counter:
+                if 2*i == k:
+                    n = counter[i]//2
+                    counter[i]-=n
+                else:
+                    n = min(counter[i],counter[k-i])
+                    counter[i]-=n
+                    counter[k-i]-=n
+                ans+=n
         return ans
