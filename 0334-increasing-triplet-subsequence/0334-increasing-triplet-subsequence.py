@@ -6,9 +6,8 @@ class Solution:
         for num in nums:
             if num <= first:
                 first = num
-            elif num <= second:  # first < num <= second
+            elif num <= second:
                 second = num
             else:
-                return True  # first < second < num (third)
-
+                return True  
         return False
