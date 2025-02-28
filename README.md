@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -91,6 +93,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
