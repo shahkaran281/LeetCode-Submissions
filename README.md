@@ -34,6 +34,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -51,6 +52,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [2434-design-a-number-container-system](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
