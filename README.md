@@ -142,6 +142,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
