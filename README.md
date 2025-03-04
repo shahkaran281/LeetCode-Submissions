@@ -19,6 +19,7 @@
 | [0605-can-place-flowers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0724-find-pivot-index](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1833-find-the-highest-altitude) |
 ## Data Stream
