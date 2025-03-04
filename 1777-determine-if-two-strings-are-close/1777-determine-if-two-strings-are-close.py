@@ -6,5 +6,5 @@ class Solution:
         c2 = Counter(word2)
         freq1 = c1.values()
         freq2 = c2.values()
-        return set(c1.keys()) == set(c2.keys()) and sorted(freq1) == sorted(freq2)
+        return c1.keys() == c2.keys() and sorted(freq1) == sorted(freq2)
         
