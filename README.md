@@ -25,6 +25,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1833-find-the-highest-altitude) |
@@ -88,6 +89,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -124,6 +126,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
