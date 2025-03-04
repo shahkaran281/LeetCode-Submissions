@@ -7,7 +7,7 @@ class Solution:
         while j < len(nums):
             if curr <=1:
                 if nums[j] == 0:
-                    curr +=1
+                    curr = curr + 1
                 if curr <= 1:
                     res = max(res, j-i-1)
                 j+=1
