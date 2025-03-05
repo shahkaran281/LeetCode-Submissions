@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
@@ -259,6 +260,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
