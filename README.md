@@ -26,6 +26,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
@@ -219,6 +220,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Depth-First Search
 |  |
