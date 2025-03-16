@@ -14,6 +14,7 @@
 | [0303-range-sum-query-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0605-can-place-flowers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -289,6 +291,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
