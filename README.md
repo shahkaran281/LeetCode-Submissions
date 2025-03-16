@@ -42,6 +42,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2665-minimum-time-to-repair-cars](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
@@ -222,6 +223,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2665-minimum-time-to-repair-cars](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
 ## Depth-First Search
 |  |
 | ------- |
