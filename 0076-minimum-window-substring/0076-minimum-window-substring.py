@@ -1,25 +1,32 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        def is_counter_subset(subset, superset):
-            return Counter(subset) <= Counter(superset)
-        tCount = collections.Counter(t)
-        curr = collections.Counter()
-        i = -1
-        j = 0
-        res = "*" * (len(s)+1)
-        while j <= len(s):
-            if  tCount <= curr:
-                if j - i -1 < len(res):
-                    res = s[i+1:j]
-                i+=1
-                curr[s[i]] -=1
-                if curr[s[i]] == 0:
-                    del curr[s[i]]
-            else:
-                if j >= len(s):
-                    break
-                curr[s[j]]+=1
-                j+=1
-        return res if len(res) != len(s)+1 else ""
+        if not s or not t:
+            return ""
 
-        
+        tCount = Counter(t)
+        count = Counter()
+        have = 0
+        need = len(t)
+        ans = ""
+        i = 0
+        j = 0
+        min_len = float("inf")
+
+        while j < len(s):
+            count[s[j]] += 1
+            if s[j] in tCount and count[s[j]] <= tCount[s[j]]:
+                have += 1
+
+            while have == need:
+                if j - i + 1 < min_len:
+                    min_len = j - i + 1
+                    ans = s[i : j + 1]
+
+                count[s[i]] -= 1
+                if s[i] in tCount and count[s[i]] < tCount[s[i]]:
+                    have -= 1
+                i += 1
+
+            j += 1
+
+        return ans
