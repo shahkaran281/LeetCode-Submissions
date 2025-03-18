@@ -55,6 +55,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -154,6 +155,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
