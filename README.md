@@ -94,6 +94,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -164,6 +165,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -188,6 +190,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
