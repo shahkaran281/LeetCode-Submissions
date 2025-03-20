@@ -318,10 +318,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -329,6 +331,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -341,6 +344,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Memoization
 |  |
@@ -349,6 +353,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Quickselect
