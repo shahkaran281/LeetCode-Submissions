@@ -250,6 +250,7 @@
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -259,12 +260,14 @@
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2793-count-the-number-of-complete-components](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
+| [2793-count-the-number-of-complete-components](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -341,6 +344,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0871-keys-and-rooms) |
+| [2793-count-the-number-of-complete-components](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
