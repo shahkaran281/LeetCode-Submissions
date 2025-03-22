@@ -8,23 +8,19 @@ class Solution:
                 if isConnected[i][j] == 1:
                     graph[i].add(j)
                     graph[j].add(i)
-        
-        visited = [False] * n
-        province_count = 0
-        
-        def bfs(node):
-            q = deque([node])
-            visited[node] = True
-            while q:
-                current = q.popleft()
-                for neighbor in graph[current]:
-                    if not visited[neighbor]:
-                        visited[neighbor] = True
-                        q.append(neighbor)
-        
+        group = set()
+        count = 0
         for i in range(n):
-            if not visited[i]:
-                bfs(i)
-                province_count += 1
+            if i not in group:
+                count +=1
+                q = deque([i])
+                # print(q)
+                while q:
+                    curr = q.popleft()
+                    if curr not in group:
+                        group.add(curr)
+                        for neighbour in graph[curr]:
+                            if neighbour not in group:
+                                q.append(neighbour)
         
-        return province_count
+        return count
