@@ -27,6 +27,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-two-city-scheduling](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1095-two-city-scheduling) |
 | [1319-unique-number-of-occurrences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -124,6 +125,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1095-two-city-scheduling](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1095-two-city-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -226,6 +228,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1095-two-city-scheduling](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1095-two-city-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
