@@ -40,6 +40,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2428-equal-row-and-column-pairs) |
@@ -170,6 +171,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -237,6 +239,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
@@ -285,6 +288,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
 |  |
