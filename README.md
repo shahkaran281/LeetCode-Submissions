@@ -53,6 +53,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2868-continuous-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -207,6 +208,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -251,6 +253,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
