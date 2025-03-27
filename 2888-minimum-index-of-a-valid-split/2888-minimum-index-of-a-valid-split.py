@@ -1,17 +1,29 @@
 class Solution:
     def minimumIndex(self, nums: List[int]) -> int:
-        counter = Counter(nums)
-        mx = nums[0]
-        for x, freq in counter.items():
-            if counter[x] > counter[mx]:
-                mx = x
-        # print(x,counter[x])
-        first = 0
-        for i in range(len(nums)):
-            if nums[i] == mx:
-                first += 1
-                counter[mx] -= 1
-            # print(i,first,counter[mx], (i+1), (len(nums) - (i+1)))
-            if 2*first > (i+1) and 2*counter[mx] > (len(nums) - (i+1)):
-                return i
+        x = nums[0]
+        count = 0
+        x_count = 0
+        n = len(nums)
+
+        for num in nums:
+            if num == x:
+                count += 1
+            else:
+                count -= 1
+            if count == 0:
+                x = num
+                count = 1
+
+        for num in nums:
+            if num == x:
+                x_count += 1
+
+        count = 0
+        for index in range(n):
+            if nums[index] == x:
+                count += 1
+            remaining_count = x_count - count
+            if count * 2 > index + 1 and remaining_count * 2 > n - index - 1:
+                return index
+
         return -1
