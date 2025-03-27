@@ -146,6 +146,7 @@
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
@@ -172,6 +173,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
@@ -386,6 +388,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
