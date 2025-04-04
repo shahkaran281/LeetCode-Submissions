@@ -205,6 +205,7 @@
 | [0778-reorganize-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -285,6 +286,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0871-keys-and-rooms) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -298,6 +300,7 @@
 | [0547-number-of-provinces](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -378,6 +381,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -387,6 +391,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
