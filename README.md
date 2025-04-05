@@ -42,6 +42,7 @@
 | [1833-find-the-highest-altitude](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1833-find-the-highest-altitude) |
 | [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
@@ -170,10 +171,12 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bitmask
 |  |
@@ -188,6 +191,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -435,4 +439,12 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
