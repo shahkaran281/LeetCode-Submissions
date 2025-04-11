@@ -198,6 +198,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -451,4 +452,5 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
