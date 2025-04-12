@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
