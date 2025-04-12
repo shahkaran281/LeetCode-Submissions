@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
@@ -255,6 +257,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -264,6 +267,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -430,6 +434,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Quickselect
