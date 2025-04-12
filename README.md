@@ -60,6 +60,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3292-earliest-second-to-mark-indices-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -287,6 +288,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2665-minimum-time-to-repair-cars) |
+| [3292-earliest-second-to-mark-indices-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3292-earliest-second-to-mark-indices-i) |
 ## Depth-First Search
 |  |
 | ------- |
