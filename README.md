@@ -31,6 +31,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0983-validate-stack-sequences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [1036-rotting-oranges](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1095-two-city-scheduling) |
@@ -108,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -352,6 +354,7 @@
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0983-validate-stack-sequences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0983-validate-stack-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
