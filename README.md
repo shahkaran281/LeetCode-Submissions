@@ -52,6 +52,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
@@ -159,6 +160,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
