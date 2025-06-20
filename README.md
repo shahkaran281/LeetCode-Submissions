@@ -213,6 +213,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
@@ -273,6 +276,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
