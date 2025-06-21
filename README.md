@@ -161,6 +161,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -264,6 +266,7 @@
 | [1894-merge-strings-alternately](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -275,6 +278,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
@@ -297,6 +301,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
