@@ -260,6 +260,7 @@
 | [0392-is-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0778-reorganize-string) |
+| [0851-goat-latin](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0851-goat-latin) |
 | [1250-longest-common-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1777-determine-if-two-strings-are-close) |
