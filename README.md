@@ -154,6 +154,7 @@
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1095-two-city-scheduling](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1095-two-city-scheduling) |
@@ -205,6 +206,7 @@
 | [0189-rotate-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0670-maximum-swap) |
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
