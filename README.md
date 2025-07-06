@@ -253,6 +253,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0071-simplify-path](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0983-validate-stack-sequences) |
