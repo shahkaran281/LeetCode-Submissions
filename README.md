@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0162-find-peak-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
@@ -312,6 +313,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
