@@ -20,6 +20,7 @@
 | [0322-coin-change](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0523-continuous-subarray-sum](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -206,6 +207,7 @@
 | [0070-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
+| [0523-continuous-subarray-sum](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0670-maximum-swap) |
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
@@ -226,6 +228,7 @@
 | [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0523-continuous-subarray-sum](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -413,6 +416,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
