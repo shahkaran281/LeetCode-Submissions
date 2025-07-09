@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0189-rotate-array) |
@@ -295,6 +296,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
