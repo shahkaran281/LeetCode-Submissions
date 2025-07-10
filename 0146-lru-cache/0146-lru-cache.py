@@ -1,51 +1,71 @@
-class Node:
-    def __init__(self, key: int, value: int):
-        self.key = key
-        self.value = value
-        self.prev = None
-        self.next = None
+class DLL:
 
+    def __init__(self, key=-1, val=-1, prev=None, next=None):
+        self.key = key
+        self.val = val
+        self.prev = prev
+        self.next = next
 
 class LRUCache:
+
     def __init__(self, capacity: int):
-        self.capacity = capacity
-        self.keyToNode = {}
-        self.head = Node(-1, -1)
-        self.tail = Node(-1, -1)
-        self.join(self.head, self.tail)
+        self.cap = capacity
+        self.first = DLL()
+        self.last = DLL()
+        self.first.next = self.last  # Most recent
+        self.last.prev = self.first  # Least recent
+        self.keyToNode = dict()
 
     def get(self, key: int) -> int:
-        if key not in self.keyToNode:
-            return -1
+        if key in self.keyToNode:
+            node = self.keyToNode[key]
 
-        node = self.keyToNode[key]
-        self.remove(node)
-        self.moveToHead(node)
-        return node.value
+            # Remove node from current position
+            node.prev.next = node.next
+            node.next.prev = node.prev
+
+            # Insert node right after head (most recent)
+            node.next = self.first.next
+            node.prev = self.first
+            self.first.next.prev = node
+            self.first.next = node
+
+            return node.val
+        else:
+            return -1
 
     def put(self, key: int, value: int) -> None:
         if key in self.keyToNode:
             node = self.keyToNode[key]
-            node.value = value
-            self.remove(node)
-            self.moveToHead(node)
-            return
+            node.val = value
 
-        if len(self.keyToNode) == self.capacity:
-            lastNode = self.tail.prev
-            del self.keyToNode[lastNode.key]
-            self.remove(lastNode)
+            # Move node to front
+            node.prev.next = node.next
+            node.next.prev = node.prev
 
-        self.moveToHead(Node(key, value))
-        self.keyToNode[key] = self.head.next
+            node.next = self.first.next
+            node.prev = self.first
+            self.first.next.prev = node
+            self.first.next = node
 
-    def join(self, node1: Node, node2: Node):
-        node1.next = node2
-        node2.prev = node1
+        else:
+            if len(self.keyToNode) == self.cap:
+                # Evict least recently used node
+                lastNode = self.last.prev
+                lastNode.prev.next = self.last
+                self.last.prev = lastNode.prev
+                del self.keyToNode[lastNode.key]
 
-    def moveToHead(self, node: Node):
-        self.join(node, self.head.next)
-        self.join(self.head, node)
+            # Add new node to front
+            node = DLL(key=key, val=value)
+            node.prev = self.first
+            node.next = self.first.next
+            self.first.next.prev = node
+            self.first.next = node
+            self.keyToNode[key] = node
+        
 
-    def remove(self, node: Node):
-        self.join(node.prev, node.next)
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
