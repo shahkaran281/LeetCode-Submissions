@@ -34,6 +34,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0912-random-pick-with-weight](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0983-validate-stack-sequences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [1036-rotting-oranges](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
@@ -214,6 +215,7 @@
 | [0523-continuous-subarray-sum](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0670-maximum-swap) |
+| [0912-random-pick-with-weight](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [1236-n-th-tribonacci-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -329,6 +331,7 @@
 | [0162-find-peak-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0912-random-pick-with-weight](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -432,6 +435,7 @@
 | [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
+| [0912-random-pick-with-weight](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1833-find-the-highest-altitude) |
@@ -537,4 +541,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
