@@ -231,6 +231,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -413,6 +414,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -449,6 +451,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
@@ -545,4 +548,8 @@
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
