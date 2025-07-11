@@ -346,6 +346,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -461,6 +462,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -477,6 +479,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
