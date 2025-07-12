@@ -22,6 +22,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0498-diagonal-traverse](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
@@ -120,6 +121,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2428-equal-row-and-column-pairs) |
@@ -395,6 +397,7 @@
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1396-count-servers-that-communicate) |
