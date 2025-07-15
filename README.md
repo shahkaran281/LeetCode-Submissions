@@ -287,6 +287,7 @@
 | [0807-custom-sort-string](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0807-custom-sort-string) |
 | [0851-goat-latin](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0851-goat-latin) |
 | [1250-longest-common-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -420,6 +421,7 @@
 | [0155-min-stack](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0983-validate-stack-sequences) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
