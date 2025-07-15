@@ -35,6 +35,7 @@
 | [0724-find-pivot-index](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -341,6 +342,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-random-pick-with-weight](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
