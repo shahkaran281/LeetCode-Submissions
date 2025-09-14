@@ -282,6 +282,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
