@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
@@ -451,6 +453,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Prefix Sum
