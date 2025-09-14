@@ -218,6 +218,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0202-happy-number) |
@@ -239,6 +240,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0169-majority-element) |
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
