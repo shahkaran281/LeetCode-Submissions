@@ -3,30 +3,27 @@ class Solution:
         if not s or not t:
             return ""
 
-        tCount = Counter(t)
-        count = Counter()
-        have = 0
-        need = len(t)
-        ans = ""
-        i = 0
-        j = 0
-        min_len = float("inf")
+        tCounter = Counter(t)
+        window = {}
+        have, need = 0, len(tCounter)
+        res, resLen = [-1, -1], float("inf")
+        left = 0
 
-        while j < len(s):
-            count[s[j]] += 1
-            if s[j] in tCount and count[s[j]] <= tCount[s[j]]:
+        for right, ch in enumerate(s):
+            window[ch] = window.get(ch, 0) + 1
+
+            if ch in tCounter and window[ch] == tCounter[ch]:
                 have += 1
 
             while have == need:
-                if j - i + 1 < min_len:
-                    min_len = j - i + 1
-                    ans = s[i : j + 1]
+                if (right - left + 1) < resLen:
+                    res = [left, right]
+                    resLen = right - left + 1
 
-                count[s[i]] -= 1
-                if s[i] in tCount and count[s[i]] < tCount[s[i]]:
+                window[s[left]] -= 1
+                if s[left] in tCounter and window[s[left]] < tCounter[s[left]]:
                     have -= 1
-                i += 1
+                left += 1
 
-            j += 1
-
-        return ans
+        l, r = res
+        return s[l:r+1] if resLen != float("inf") else ""
