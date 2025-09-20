@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -129,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0983-validate-stack-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -415,6 +417,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shahkaran281/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
