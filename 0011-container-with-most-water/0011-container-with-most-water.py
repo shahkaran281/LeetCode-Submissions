@@ -9,7 +9,7 @@ class Solution:
             leftMax = max(leftMax,height[left])
             rightMax = max(rightMax,height[right])
             ans = max(ans,min(leftMax,rightMax)*(right - left))
-            if leftMax < rightMax:
+            if height[left] < height[right]:
                 left+=1
             else:
                 right -=1
